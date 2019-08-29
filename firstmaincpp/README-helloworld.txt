@@ -1,0 +1,1 @@
+In the spirit of "Hello World" and some of my first batch projects. Here's my first ever program in c++ from years ago. Technically my first program/hello was in java but that I was a mere 12 year old (I think) who deleted it.
